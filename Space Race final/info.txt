@@ -1,0 +1,14 @@
+
+Du skall bygga en variation av spelet Space Race. Se GIF nedanför.
+Spelet består av två spelare som tävlar om vem som får mest poäng.
+Varje spelare har en raket som läggs in på spelplanen och för att få poäng så skall spelaren nå toppen av spelplanen.
+När en spelare når toppen så får den poäng och skickas tillbaka till början där den kan köra igen.
+
+Spelet består också av hinder i form av rörande bollar.
+Bollarna kommer in från sidorna och åker rakt över spelplanen från vänster till höger och vice versa.
+Om en spelare nuddar en boll så måste den börja om längst ned men tappar inga poäng.
+
+Spelaren kan endast åka upp och ned och den skall kunna skjuta en boll
+mot motståndaren varje 3 sekunder
+(detta visas inte i GIF:en nedanför).
+Detta görs genom att trycka på valfri knapp som ni bestämmer
